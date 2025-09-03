@@ -23,7 +23,7 @@ This MCP server was written using Claude Desktop and the Claude Sonnet 4. This R
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/makeralchemy/claude-desktop-mcp-sqlite
 cd mcp-sqlite
 ```
 

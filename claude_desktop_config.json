@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite": {
+      "command": "C:\\Users\\your-user-name\\Code\\mcp-sqlite\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\your-user-name\\Code\\mcp-sqlite\\mcpsqlite.py"
+      ]
+    }
+  }
+}
